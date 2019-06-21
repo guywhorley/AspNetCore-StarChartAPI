@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+
+// I added the following two using statements
 using Microsoft.EntityFrameworkCore;
 using StarChart.Data;
 
